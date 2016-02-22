@@ -1,2 +1,4 @@
-# write-the-docs-talks
-A repo to iterate on talks for write the docs
+# Write the Docs talks
+
+This is a repo for working on my write the docs talks.
+

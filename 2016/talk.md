@@ -125,7 +125,7 @@ The values are:
 
 ----
 
-[Title]
+Be the CEO (of the docs)
 
 If you ask good tech writers about what they value most, usually
 they tell you that you need to
@@ -133,7 +133,7 @@ they tell you that you need to
 "Know your audience"
 
 But I would argue that "knowing your audience" only makes you a good
-tech writer. I doesn't make you a great one.
+tech writer. It doesn't make you a great one.
 
 Your audience is only a small piece of the whole puzzle.
 
@@ -164,8 +164,41 @@ support your arguments when discussing decisions with engineers,
 product managers, and support.
 
 ----
+Ask why
 
-[Title]
+Great tech writers know that everyone communicates solutions
+instead of problems.
+So they develop an habit of asking why, until they understand
+the root cause of a problem, and then work on tackling the problem
+by its root.
+
+
+Developers tell you that you need to write something about how
+to install the product with a special option.
+
+Product managers tell you that you need to make the installation
+instructions sound simpler.
+
+Support gives you five disclaimers you need to add to the installation
+docs.
+
+No one tells you why, but all of them tell that it needs to
+be done fast.
+
+If you never ask why, you will end up:
+
+- With documentation that is impossible to maintain. No one ever asks
+you to remove documentation, they always ask to add more.
+- With documentation that is cluttered and not meaningfull for most of
+your users.
+- Putting out fires all day long, and never have time to do
+strategic work
+
+
+
+-----
+
+Be proactive
 
 Great tech writers are proactive and don't wait to be told what
 to do.
@@ -184,8 +217,8 @@ Of course finding excuses is easy:
 - That isn't my job description
 
 And I know that some of you are thinking that these aren't
-excuses. This is the reality at your company, and there's
-nothing you can do to change that.
+excuses at all. You might be thinking that this is the reality
+at your company, and there's nothing you can do to change that.
 
 But I don't think that's the case, and let me explain you why.
 
@@ -195,10 +228,10 @@ Not so long ago, designers were also telling themselves:
 - Other companies have more resources than I have
 - I'm only called into the project at the last minute
 
-The only excuse you didn't hear from that was
-- That isn't my job description.
+The only excuse you didn't hear from them was
+- That's not my job description.
 
-They were proactive, and didn't to be told what to do. At every
+They were proactive, and did not wait to be told what to do. At every
 opportunity, they helped improve the product, no matter if it was
 their job description or not.
 
@@ -212,6 +245,70 @@ So I see no reason for the same not to happen with tech writers.
 
 ----
 
-[Title]
+80/20
+
+Great tech writers don't try to document every feature, every
+screen, and every button to exhaustion.
+
+They apply the 80/20 rule. They try to document the things 80%
+of customers care about.
+
+They know that:
+- The product is constantly changing, 
+- Whatever they write now, they'll have to maintain in the years to come
+- You should not document things that you can learn just by looking
+at the UI
+
+They take no pride in writing things that no one ever reads. Instead,
+they collect metrics, and use them to iterate or delete docs that
+users don't read.
+
+
+----
+
+Communication
+
+Great tech writers know that writing is just a way to transfer
+ideas from one head to another. They care about transfering
+ideas and knowledge in an effective way.
+
+They see writing as only a tool, and know that:
+
+- They have other tools they can use like pictures, diagrams,
+code snippets, videos, interactive explorations, and others.
+- Writing, as any other tool, can be changed.
+
+This last point is very relevant. Great technical writers don't
+mind going against grammatical conventions, if that makes it easier
+to transfer ideas.
+
+But don't take my word for it, after all I don't even speak
+english correctly.
+
+Take Shakespeare as an example. That guy really didn't mind
+breaking conventions and good practices. And in the process
+of assassinating grammatical correctness he ended up creating
+a ton of new words that we all use today.
+
+----
+
+Helping, Coaching, and Developing others
+
+Great technical writers don't waste time complaining that
+developers can't write.
+
+They know they are just one, for 15+ developers. So they try
+levaraging developers instead of trying to fight them.
+
+They create collateral, FAQs, presentations, brownbag sessions that
+can be leveraged by the rest of the company. They brainstorm
+side-by-side with developers to improve their proposals.
+
+----
+
+
+
+
+
 
 

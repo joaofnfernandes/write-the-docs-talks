@@ -142,7 +142,7 @@ product managers, and support.
 ## Ask why
 
 Great tech writers know that everyone communicates solutions
-instead of problems.
+instead of stating the problem they have.
 So they develop an habit of asking why, until they understand
 the root cause of a problem, and then work on tackling the problem
 by its root.
@@ -246,11 +246,12 @@ Great tech writers know that writing is just a way to transfer
 ideas from one head to another. They care about transfering
 ideas and knowledge in an effective way.
 
-They see writing as only a tool, and know that:
+They see writing as only a tool, and know that hey have other tools
+they can use like pictures, diagrams, code snippets, videos,
+interactive explorations, and others.
 
-- They have other tools they can use like pictures, diagrams,
-code snippets, videos, interactive explorations, and others.
-- Writing, as any other tool, can be changed.
+They also know that writing, as any other tool, can be
+tweaked and hacked, to be improved for a given purpose.
 
 This last point is very relevant. Great technical writers don't
 mind going against grammatical conventions, if that makes it easier
